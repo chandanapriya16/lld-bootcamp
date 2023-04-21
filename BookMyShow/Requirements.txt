@@ -1,0 +1,32 @@
+Users:
+
+1. Client:
+  - Search for a movie.
+  - search on a particular date.
+  - Book ticket.
+  - Search for Theaters.
+  - cancel booking.
+  - payment.
+  - get confirmation.
+  - Language search.
+  - 2d/3d search.
+  - book snacks.
+  - give feedback
+
+2. Theater Manager:
+  - Add available movies list.
+  - Provide show timings.
+  - update availability of seats.
+  - validate client ticket before each show.
+
+3. System:
+  - add users
+  - add theater managers.
+  - add/remove cities.
+  - Provide availability of seats to client.
+  - availability of theaters.
+  - send notifications.
+  - provide description and rating of each movie.
+  - take care of refund.
+  - generate ticket.
+  
